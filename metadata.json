@@ -1,0 +1,6 @@
+{
+  "name": "人工智能岛园区智能电网运营管理平台",
+  "description": "人工智能岛园区智能电网运营管理平台，支持三维数字孪生底图和实时动态数据刷新，包含配电房监控、能耗分析、感知设备巡检、故障模拟分析、任务运维工单等六大核心模块。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
